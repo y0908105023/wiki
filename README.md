@@ -7,6 +7,8 @@
 
 &emsp; [spark DAGScheduler](https://github.com/y0908105023/wiki/wiki/spark-dagscheduler)
 
+&emsp; [spark checkpoint](https://github.com/y0908105023/wiki/wiki/spark-checkpoint-%E8%AF%A6%E8%A7%A3)
+
 #### Flume 系列
 
 
