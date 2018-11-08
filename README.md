@@ -9,9 +9,9 @@
 ###### Spark 进阶
 &emsp; [spark Driver&&Executor 启动流程](https://github.com/y0908105023/wiki/wiki/spark-executor-start)
 
-&emsp; [spark DAGScheduler](https://github.com/y0908105023/wiki/wiki/spark-dagscheduler)
+&emsp; [spark DAGScheduler 与 Job提交过程](https://github.com/y0908105023/wiki/wiki/spark-DAGScheduler-%E4%B8%8E-Job%E6%8F%90%E4%BA%A4%E8%BF%87%E7%A8%8B)
 
-&emsp; [spark Stage](https://github.com/y0908105023/wiki/wiki/spark-Stage)
+&emsp; [spark DAGScheduler 与 Stage提交过程](https://github.com/y0908105023/wiki/wiki/spark-DAGScheduler-%E4%B8%8E-Stage%E6%8F%90%E4%BA%A4%E8%BF%87%E7%A8%8B)
 
 &emsp; [spark 清理内存策略](https://github.com/y0908105023/wiki/wiki/spark-%E5%A6%82%E4%BD%95%E6%B8%85%E7%90%86%E8%BF%87%E6%9C%9F%E7%9A%84RDD)
 
