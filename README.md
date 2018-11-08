@@ -25,8 +25,8 @@
 #### Kafka 系列
 &emsp; [Kafka Producer 详解](https://github.com/y0908105023/wiki/wiki/Kafka-Producer-%E8%AF%A6%E7%BB%86%E6%B5%81%E7%A8%8B)
 
-#### java 系列
+#### Java 系列
 
 
-#### hbase 系列
+#### Hbase 系列
 
