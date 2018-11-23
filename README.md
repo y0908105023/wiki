@@ -22,7 +22,7 @@
 ###### Structured Spark 
 
 #### Flume 系列
-
+&emsp; [Flume MemoryChannel](https://github.com/y0908105023/wiki/wiki/Flume-MemoryChannel)
 
 
 
