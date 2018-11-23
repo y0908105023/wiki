@@ -26,6 +26,8 @@
 
 &emsp; [Flume FileChannel](https://github.com/y0908105023/wiki/wiki/Flume-FileChannel)
 
+&emsp; [Flume Spillable Channel](https://github.com/y0908105023/wiki/wiki/Flume-Spillable-Channel)
+
 #### Kafka 系列
 &emsp; [Kafka Producer 详解](https://github.com/y0908105023/wiki/wiki/Kafka-Producer-%E8%AF%A6%E7%BB%86%E6%B5%81%E7%A8%8B)
 
