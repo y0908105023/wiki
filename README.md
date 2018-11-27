@@ -32,6 +32,11 @@
 
 ###### &emsp; Flume 高级
 
+#### Flink 系列
+###### &emsp; Flink 初级
+&emsp; &emsp; [Flume 源码编译](https://github.com/y0908105023/wiki/wiki/Flink-%E6%BA%90%E7%A0%81%E7%BC%96%E8%AF%91)
+
+
 #### Kafka 系列
 &emsp; &emsp; [Kafka Producer 详解](https://github.com/y0908105023/wiki/wiki/Kafka-Producer-%E8%AF%A6%E7%BB%86%E6%B5%81%E7%A8%8B)
 
