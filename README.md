@@ -36,6 +36,7 @@
 ###### &emsp; Flink 初级
 &emsp; &emsp; [Flume 源码编译](https://github.com/y0908105023/wiki/wiki/Flink-%E6%BA%90%E7%A0%81%E7%BC%96%E8%AF%91)
 
+&emsp; &emsp; [Flume 安装以及测试](https://github.com/y0908105023/wiki/wiki/Flink-%E5%AE%89%E8%A3%85%E4%BB%A5%E5%8F%8A%E6%B5%8B%E8%AF%95)
 
 #### Kafka 系列
 &emsp; &emsp; [Kafka Producer 详解](https://github.com/y0908105023/wiki/wiki/Kafka-Producer-%E8%AF%A6%E7%BB%86%E6%B5%81%E7%A8%8B)
