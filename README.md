@@ -32,6 +32,8 @@
 
 ###### &emsp; Flume 高级
 
+&emsp; &emsp; [Flume 运维](https://github.com/y0908105023/wiki/wiki/flume-运维)
+
 #### Flink 系列
 ###### &emsp; Flink 初级
 &emsp; &emsp; [Flink 源码编译](https://github.com/y0908105023/wiki/wiki/Flink-%E6%BA%90%E7%A0%81%E7%BC%96%E8%AF%91)
