@@ -19,7 +19,7 @@
 
 &emsp; &emsp; [spark 清理内存策略](https://github.com/y0908105023/wiki/wiki/spark-%E5%A6%82%E4%BD%95%E6%B8%85%E7%90%86%E8%BF%87%E6%9C%9F%E7%9A%84RDD)
 
-&emsp; &emsp; [spark Streaming HA改进](https://github.com/y0908105023/wiki/wiki/Spark-Streaming-HA-%E6%94%B9%E8%BF%9B）
+&emsp; &emsp; [spark Streaming HA改进](https://github.com/y0908105023/wiki/wiki/Spark-Streaming-HA-%E6%94%B9%E8%BF%9B)
 
 ###### &emsp; Structured Spark 
 
