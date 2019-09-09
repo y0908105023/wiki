@@ -35,6 +35,7 @@
 ###### &emsp; Flume 高级
 
 &emsp; &emsp; [Flume 运维](https://github.com/y0908105023/wiki/wiki/Flume-运维)
+&emsp; &emsp; [Flume-SpillableMemory-详解](https://github.com/y0908105023/wiki/wiki/Flume-SpillableMemory-%E8%AF%A6%E8%A7%A3)
 
 #### Flink 系列
 ###### &emsp; Flink 初级
