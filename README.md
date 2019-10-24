@@ -7,6 +7,8 @@
 &emsp; &emsp; [spark checkpoint](https://github.com/y0908105023/wiki/wiki/spark-checkpoint-%E8%AF%A6%E8%A7%A3)
 
 ###### &emsp; Spark 进阶
+&emsp; &emsp; [spark on kunernetes 源码编译](https://github.com/y0908105023/wiki/wiki/spark-on-kunernetes-%E6%BA%90%E7%A0%81%E7%BC%96%E8%AF%91)
+
 &emsp; &emsp; [spark Driver&&Executor 启动流程](https://github.com/y0908105023/wiki/wiki/spark-executor-start)
 
 &emsp; &emsp; [spark Streaming 生成Job 源码流程](https://github.com/y0908105023/wiki/wiki/spark-streaming-%E7%94%9F%E6%88%90Job-%E6%BA%90%E7%A0%81%E6%B5%81%E7%A8%8B)
