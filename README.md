@@ -48,6 +48,7 @@
 
 ###### &emsp; Flink 高级
 &emsp; &emsp; [Flink on yarn启动流程](https://github.com/y0908105023/wiki/wiki/Flink-on-yarn-%E5%90%AF%E5%8A%A8%E6%B5%81%E7%A8%8B)
+&emsp; &emsp; [Flink Kafka Producer Consumer 源码解析](https://github.com/y0908105023/wiki/wiki/Flink-Kafka-Producer-Consumer-%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90)
 
 #### Kafka 系列
 &emsp; &emsp; [Kafka Producer 详解](https://github.com/y0908105023/wiki/wiki/Kafka-Producer-%E8%AF%A6%E7%BB%86%E6%B5%81%E7%A8%8B)
