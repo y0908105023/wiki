@@ -23,6 +23,8 @@
 
 &emsp; &emsp; [spark Streaming HA改进](https://github.com/y0908105023/wiki/wiki/Spark-Streaming-HA-%E6%94%B9%E8%BF%9B)
 
+&emsp; &emsp; [spark Streaming Checkpoint详细流程](https://github.com/y0908105023/wiki/wiki/spark-streaming-checkpoint%E6%B5%81%E7%A8%8B%E8%AF%A6%E8%A7%A3)
+
 ###### &emsp; Structured Spark 
 
 #### Flume 系列
